@@ -4,7 +4,7 @@
 
 **reads as suggested **
 
-<h1> a simple cursed chrome extension for halloween (originally for larpa's evil computer event but i was sick) </h1>
+<h1> a simple cursed chrome extension for halloween <i> (originally for larpa's evil computer event but i was sick) </i> </h1>
 
 
 **installation**
