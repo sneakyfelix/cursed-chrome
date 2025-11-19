@@ -17,5 +17,3 @@
 6. select cursed-chome folder
    → if successful, you’ll see the extension appear in your toolbar or in your extensions list
    
-
-![erm](https://github.com/user-attachments/assets/254e258f-b0af-47fe-a847-c93efbf4f72d)
