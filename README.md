@@ -3,7 +3,7 @@
 <p> a simple cursed chrome extension for halloween <i> (originally for larpa's evil computer event but i was sick) </i> </p>
 
 <img width="1010" height="710" alt="PNG image" src="https://github.com/user-attachments/assets/b559c156-60e5-4928-884b-726b32884359" />
-[erm](https://github.com/user-attachments/assets/215f23ef-23ed-4804-ba44-12c120e95a48)
+<img src="https://github.com/user-attachments/assets/215f23ef-23ed-4804-ba44-12c120e95a48" alt="gif">
 
 
 <h1> installation </h1>
